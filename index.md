@@ -1,12 +1,10 @@
 ## Welcome to Amaze Pages Source via GitHub.
 
-You can use the [editor on GitHub](https://github.com/cladvi/amazepages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use Amaze Pages to build your business you can find how below go to documenation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### All Cool Features
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Getting Touch with us.contact us below..
 
 ```markdown
 Your page Source Behind sense
